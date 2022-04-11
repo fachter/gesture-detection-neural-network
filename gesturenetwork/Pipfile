@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+opencv-python = "*"
+numpy = "*"
+mediapipe = "*"
+pandas = "*"
+pyyaml = "*"
+sanic = "*"
+matplotlib = "*"
+
+jupyter = "*"
+tqdm = "*"
+python-mnist = "*"
+seaborn = "*"
+
